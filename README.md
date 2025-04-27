@@ -18,12 +18,12 @@ This is the frontend code for Schedify, a Developer-First Task Scheduling soluti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Praviiiiin/Pravin_CSEAIML4_Schedify
+   git clone https://github.com/Praviiiiin/Pravin_CSE-AI-ML4_Schedify
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Pravin_CSEAIML4_Schedify
+   cd Pravin_CSE-AI-ML4_Schedify
    ```
 
 3. Install the dependencies: (make sure to have Node.js installed)
