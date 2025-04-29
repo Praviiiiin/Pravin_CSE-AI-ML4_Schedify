@@ -1,8 +1,8 @@
 # Schedify Frontend
 
 ## Team Members
-- [Samir Kumar Gupta](http://github.com/ksamirdev)
-- [E Pravin](https://github.com/Praviiiiin)
+- [Samir Kumar Gupta 2301730243](http://github.com/ksamirdev)
+- [E Pravin 2301730215](https://github.com/Praviiiiin)
 
 ## Project Description
 This is the frontend code for Schedify, a Developer-First Task Scheduling solution. For more information, visit the main site at [schedify.dev](https://schedify.dev)
